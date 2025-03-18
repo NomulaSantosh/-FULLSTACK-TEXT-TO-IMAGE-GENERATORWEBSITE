@@ -1,10 +1,10 @@
-#Text to Image Generator Website
+# Text to Image Generator Website
 
-This is a Full Stack Text to Image Generator Website
+-This is a Full Stack Text to Image Generator Website
+-The front end and back end are ready.
+-Sign-in and Sign-up features are implemented.
+-Data is stored in MongoDB.
 
-The complete Frontend and Backend is ready.
-
-Sign-in and Sign-up features are implemented.
 
 * To start the client server:
 ```bash
